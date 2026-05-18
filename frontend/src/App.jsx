@@ -16,7 +16,7 @@ import MyBookings from "./pages/student/MyBookings"
 import TutorDashboard from "./pages/tutor/TutorDashboard"
 
 import CreateTutor from "./pages/tutor/CreateTutor"
-import Home from "./pages/Home"
+import Home from "./pages/home"
 
 // import ProtectedRoute from "./components/ProtectedRoute"
 // routes mein:
